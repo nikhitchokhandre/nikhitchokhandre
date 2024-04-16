@@ -1,7 +1,7 @@
-<h1 align="center">Hello 🌏 
+<h1 align="left">Hello 🌏 
 <h2 align="center">I'm Nikhit Chokhandre 🤖
-<h3 align="center">I'm a Data and AI enthusiast and passionate about using data to drive meaningful insights and solve complex problems. 
-<h4 align="center">Accepting Freelancing and Full Time Work in Data Analytics. Contact for further info. 
+<h3 align="left">I'm a Data and AI enthusiast and passionate about using data to drive meaningful insights and solve complex problems. 
+<h4 align="left">Accepting Freelancing and Full Time Work in Data Analytics. Contact for further info. 
 <h5 align="left">Pronouns: He/Him
 
 - 🔭 I’m currently learning and working on **Working on some capstone projects using python, SQL and ML. Building data visualization projects using Power BI.**
