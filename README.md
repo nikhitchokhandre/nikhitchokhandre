@@ -5,23 +5,23 @@
 <h5 align="left">Pronouns: He/Him
 <h4 align="left">
 🔭 I’m currently learning and working on:
-    - Working on some capstone projects using Python, SQL, and ML 
-    - Building data visualization projects using Power BI and Tableau
+- Working on some capstone projects using Python, SQL, and ML 
+- Building data visualization projects using Power BI and Tableau
 
-👀 I'm interested in **Data Analysis, Data Science, and Machine Learning, Data Cleaning, Visualization, Trend Analysis, Insights**
+👀 I'm interested in: Data Analysis, Data Science, and Machine Learning, Data Cleaning, Visualization, Trend Analysis, Insights
 
-🤝 I’m looking to collaborate
-      - DA, DS, ML Projects
-      - Open-source data science tools and libraries
-      - Hackathons and data science competitions
+🤝 I’m looking to collaborate:
+- DA, DS, ML Projects
+- Open-source data science tools and libraries
+- Hackathons and data science competitions
 
-💬 Ask me about **Python, MySQL, ML, Data Visualization, Stats, Analytics**
+💬 Ask me about: Python, MySQL, ML, Data Visualization, Stats, Analytics
 
-📫 How to reach me **nikhitchokhandre@gmail.com**
+📫 How to reach me: nikhitchokhandre@gmail.com
 
-👀 Personal Interest **Adventure, Sports and Market Research**
+👀 Personal Interest: Adventure, Sports, and Market Research
 
-⚡ Fun fact **I am a nyctophile 💀**
+⚡ Fun fact: I am a nyctophile 💀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
