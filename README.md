@@ -1,8 +1,4 @@
 Hello 
-Typing SVG
-
-
-Typing SVG
 
  I'm a Data and AI enthusiast and passionate about using data to drive meaningful insights and solve complex problems.
 
