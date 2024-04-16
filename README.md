@@ -4,11 +4,11 @@ Typing SVG
 
 Typing SVG
 
- I'm a data science enthusiast and passionate about using data to drive meaningful insights and solve complex problems.
+ I'm a Data and AI enthusiast and passionate about using data to drive meaningful insights and solve complex problems.
 
- Accepting Freelancing and Full Time Work in Data Science. Contact for further info.
+ Accepting Freelancing and Full Time Work in Data Analytics. Contact for further info.
 
- Pronouns: She/Her
+ Pronouns: He/Him
 
 🔭 I’m currently learning and Working on:
 
@@ -21,25 +21,25 @@ Typing SVG
  Trend Analysis, Insights
  I’m looking to collaborate:
 
-  - DS, ML Projects 
+  - DA, DS, ML Projects 
   - Open source data science tools and libraries.
   - Hackathons and data science competitions.
-💬 Ask me about Python, MySQL, PySpark, ML, Data Mining, Power BI, Stats, Analytics
+💬 Ask me about Python, MySQL, ML, Data Visualization, Stats, Analytics
 
 📫 How to reach me:
-anjaligondse1996@gmail.com
+nikhitchokhandre@gmail.com
 ☎️ Connect with me:
-anjaligondse LinkedIn
+nikhitchokhandre LinkedIn
 
 
 🛠 Languages and Tools:
-MySQL python Power BI SQL Server PySpark pandas NumPy Matplotlib Plotly Seaborn jupyter Visual Studio Code conda git GitHub Collab Markdown
+MySQL python Power BI SQL Server Tableau pandas NumPy Matplotlib Plotly Seaborn jupyter Visual Studio Code conda git GitHub Collab Markdown
 
 gcp mysql python seaborn pandas numpy SQL Server PySpark
 
-👀 Personal interest: Traveling, Psychology and Holistic Healing / Spirituality
+👀 Personal interest: Adventure, Sports and Market Research
 
-⚡ Fun fact: I am a Nephophile⛅, Opacarophile🌇 and Thalassophile🏄🏾‍♂️
+⚡ Fun fact: I am a nyctophile
 
 🌱 Random Data Quote
 
