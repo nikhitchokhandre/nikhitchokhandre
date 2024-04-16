@@ -1,25 +1,28 @@
 <h1 align="left">Hello 🌏 
 <h2 align="center">I'm Nikhit Chokhandre 🤖
-<h3 align="left">I'm a Data and AI enthusiast and passionate about using data to drive meaningful insights and solve complex problems. 
-<h4 align="left">Accepting Freelancing and Full Time Work in Data Analytics. Contact for further info. 
+<h3 align="left">I'm a Data and AI enthusiast, passionate about using data to drive meaningful insights and solve complex problems. 
+<h4 align="left">Accepting Freelancing and Full-Time Work in Data Analytics. Contact for further info. 
 <h5 align="left">Pronouns: He/Him
 
-- 🔭 I’m currently learning and working on **Working on some capstone projects using python, SQL and ML. Building data visualization projects using Power BI.**
 
-- 👀 I'm interested in **Data Analysis, Data Science, and Machine Learning, Data Cleaning, Visualization, Trend Analysis, Insights**
+🔭 I’m currently learning and working on:
+    - Working on some capstone projects using Python, SQL, and ML 
+    - Building data visualization projects using Power BI and Tableau
 
-- 🤝 I’m looking to collaborate
+👀 I'm interested in **Data Analysis, Data Science, and Machine Learning, Data Cleaning, Visualization, Trend Analysis, Insights**
+
+🤝 I’m looking to collaborate
       - DA, DS, ML Projects
       - Open-source data science tools and libraries
       - Hackathons and data science competitions
 
-- 💬 Ask me about **Python, MySQL, ML, Data Visualization, Stats, Analytics**
+💬 Ask me about **Python, MySQL, ML, Data Visualization, Stats, Analytics**
 
-- 📫 How to reach me **nikhitchokhandre@gmail.com**
+📫 How to reach me **nikhitchokhandre@gmail.com**
 
-- 👀 Personal Interest **Adventure, Sports and Market Research**
+👀 Personal Interest **Adventure, Sports and Market Research**
 
-- ⚡ Fun fact **I am a nyctophile 💀**
+⚡ Fun fact **I am a nyctophile 💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
