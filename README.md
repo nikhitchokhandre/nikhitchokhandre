@@ -7,7 +7,10 @@
 🔭 I’m currently learning and working on:
 - Working on some capstone projects using Python, SQL, and ML 
 - Building data visualization projects using Power BI and Tableau
-
+- DA, DS, ML Projects
+- Open-source data science tools and libraries
+- Hackathons and data science competitions
+  
 👀 I'm interested in: Data Analysis, Data Science, and Machine Learning, Data Cleaning, Visualization, Trend Analysis, Insights
 
 🤝 I’m looking to collaborate:
