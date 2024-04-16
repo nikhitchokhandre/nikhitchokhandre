@@ -2,14 +2,12 @@
 <h2 align="center">I'm Nikhit Chokhandre 🤖
 <h3 align="left">I'm a Data and AI enthusiast, passionate about using data to drive meaningful insights and solve complex problems. 
 <h4 align="left">Accepting Freelancing and Full-Time Work in Data Analytics. Contact for further info. 
-<h5 align="left">Pronouns: He/Him
+<h4 align="left">Pronouns: He/Him
 <h4 align="left">
+  
 🔭 I’m currently learning and working on:
 - Working on some capstone projects using Python, SQL, and ML 
 - Building data visualization projects using Power BI and Tableau
-- DA, DS, ML Projects
-- Open-source data science tools and libraries
-- Hackathons and data science competitions
   
 👀 I'm interested in: Data Analysis, Data Science, and Machine Learning, Data Cleaning, Visualization, Trend Analysis, Insights
 
