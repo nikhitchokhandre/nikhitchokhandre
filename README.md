@@ -1,17 +1,17 @@
 <h1 align="center">Hello 🌏 
-I'm Nikhit Chokhandre 🤖</h1>
+<h2 align="center">I'm Nikhit Chokhandre 🤖
 <h3 align="center">I'm a Data and AI enthusiast and passionate about using data to drive meaningful insights and solve complex problems. 
-Accepting Freelancing and Full Time Work in Data Analytics. Contact for further info. 
-Pronouns: He/Him</h3>
+<h4 align="center">Accepting Freelancing and Full Time Work in Data Analytics. Contact for further info. 
+<h5 align="left">Pronouns: He/Him
 
 - 🔭 I’m currently learning and working on **Working on some capstone projects using python, SQL and ML. Building data visualization projects using Power BI.**
 
 - 👀 I'm interested in **Data Analysis, Data Science, and Machine Learning, Data Cleaning, Visualization, Trend Analysis, Insights**
 
 - 🤝 I’m looking to collaborate
-   ** - DA, DS, ML Projects
+      - DA, DS, ML Projects
       - Open-source data science tools and libraries
-      - Hackathons and data science competitions**
+      - Hackathons and data science competitions
 
 - 💬 Ask me about **Python, MySQL, ML, Data Visualization, Stats, Analytics**
 
@@ -23,7 +23,7 @@ Pronouns: He/Him</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikhit-chokhandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhit-chokhandre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhit-chokhandre-5a6a7612b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhit-chokhandre" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
