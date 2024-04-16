@@ -1,4 +1,4 @@
-Hello 
+###Hello 
 
  I'm a Data and AI enthusiast and passionate about using data to drive meaningful insights and solve complex problems.
 
@@ -29,9 +29,9 @@ nikhitchokhandre LinkedIn
 
 
 🛠 Languages and Tools:
-MySQL python Power BI SQL Server Tableau pandas NumPy Matplotlib Plotly Seaborn jupyter Visual Studio Code conda git GitHub Collab Markdown
+MySQL python Power BI SQL Server Tableau pandas NumPy Matplotlib Plotly Seaborn jupyter Visual Studio Code conda GitHub Collab Markdown
 
-gcp mysql python seaborn pandas numpy SQL Server PySpark
+mysql python seaborn pandas numpy SQL
 
 👀 Personal interest: Adventure, Sports and Market Research
 
