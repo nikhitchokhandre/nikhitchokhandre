@@ -1,4 +1,6 @@
-###Hello 
+Hello 
+
+ I'm Nikhit Chokhandre
 
  I'm a Data and AI enthusiast and passionate about using data to drive meaningful insights and solve complex problems.
 
@@ -10,6 +12,7 @@
 
  - Working on some capstone projects using python, SQL and ML.
  - Building data visualization projects using Power BI.
+   
 👀 I’m interested in:
 
  Data Science and Machine learning,
@@ -20,6 +23,7 @@
   - DA, DS, ML Projects 
   - Open source data science tools and libraries.
   - Hackathons and data science competitions.
+    
 💬 Ask me about Python, MySQL, ML, Data Visualization, Stats, Analytics
 
 📫 How to reach me:
